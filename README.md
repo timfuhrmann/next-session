@@ -1,5 +1,3 @@
-In progress: a [Next.js](https://nextjs.org/) project/demo to handle an authentication session server- and client-side.
-
 ## Getting Started
 
 Run the development server:
